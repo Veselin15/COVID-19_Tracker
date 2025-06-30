@@ -27,5 +27,3 @@ Make sure you have Python 3 installed.
 
 ```bash
 git clone https://github.com/Veselin15/COVID-19_Tracker.git
-cd COVID-19_Tracker
-pip install -r requirements.txt  # If you create one
